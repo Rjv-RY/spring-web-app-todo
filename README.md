@@ -1,14 +1,21 @@
-# SpringBoot-Web-App
+This is a learning project where I explore Spring Boot by building a basic web application.
 
-This is a learning project, trying out SpringBoot through application.
+🔧 Tech Stack
 
-The stack is as follows:
--Springboot for annotations
--Springboot security for login/logut and page access protection
--Jasper & BootStrap for HTML and styling
--H2 as a local db for testing
--Spring Data JPA and Hibernate for SQL queries
--MySQL connector for easier connections
--MySQL using a Docker Container (For more in-depth testing)
+    Spring Boot – Core framework and annotations
 
-Will actually refine this ReadMe later, thank you for your time.
+    Spring Security – For login, logout, and access control
+
+    Spring Data JPA + Hibernate – Simplified database interactions via ORM
+
+    MySQL – Main database (running in a Docker container)
+
+    H2 – In-memory database for local testing
+
+    JSP + Jasper – For server-side rendering
+
+    Bootstrap – Frontend styling
+
+    jQuery – (Included for Bootstrap compatibility; may not be used directly yet)
+
+    Maven – Project build management
