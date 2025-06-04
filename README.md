@@ -16,6 +16,6 @@ This is a learning project where I explore Spring Boot by building a basic web a
 
     Bootstrap – Frontend styling
 
-    jQuery – (Included for Bootstrap compatibility; may not be used directly yet)
+    jQuery – (Included for Bootstrap compatibility; not used directly yet)
 
     Maven – Project build management
