@@ -1,3 +1,5 @@
+# SpringBoot Web App
+
 This is a learning project where I explore Spring Boot by building a basic web application.
 
 🔧 Tech Stack
@@ -19,3 +21,16 @@ This is a learning project where I explore Spring Boot by building a basic web a
     jQuery – (Included for Bootstrap compatibility; not used directly yet)
 
     Maven – Project build management
+
+
+📦 Features
+
+    Login/logout flow with route protection
+
+    Server-rendered pages using JSP
+
+    Form validation
+
+    Dockerized database setup
+
+    Uses Hibernate’s ddl-auto=update for schema management during dev
