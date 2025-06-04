@@ -34,3 +34,12 @@ This is a learning project where I explore Spring Boot by building a basic web a
     Dockerized database setup
 
     Uses Hibernate’s ddl-auto=update for schema management during dev
+
+🐳 Running MySQL with Docker (Quick Setup)
+
+    Have docker installed in your local machine
+
+    Run the command: docker run --detach --env MYSQL_ROOT_PASSWORD=password --env MYSQL_USER=todos-user --env MYSQL_PASSWORD=password --env MYSQL_DATABASE=todos --name mysql --publish 3306:3306 mysql:8-oracle
+    Use the aformentioned command's details in the application.properties file, specifically in spring.datasource's .url, .password and .username statements.
+
+    Hopefully the routes have no issues and your container is running without issues, so it works.
