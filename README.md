@@ -1,6 +1,6 @@
 # SpringBoot Web App
 
-This is a learning project where I explore Spring Boot by building a basic web application.
+This is a learning project (following in28minutes' course) where I explore Spring Boot by building a basic web application.
 
 🔧 Tech Stack
 
